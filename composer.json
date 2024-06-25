@@ -1,0 +1,19 @@
+{
+    "name": "administrator/zy-site-theme",
+    "description": "dev",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app",
+            "Api\\": "api"
+        },
+        "files": [
+            "app/function.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "shenyan"
+        }
+    ],
+    "minimum-stability": "dev"
+}
